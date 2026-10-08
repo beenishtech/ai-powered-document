@@ -1,0 +1,6 @@
+Artificial Intelligence (AI) is a branch of computer science focused on creating smart machines.
+These machines can perform tasks that typically require human intelligence and cognitive skills.
+Key areas include learning, reasoning, problem-solving, perception, and language understanding.
+Intelligent agents perceive their environment through sensors to achieve specific goals.
+Major sub-fields include expert systems, natural language processing, and computer vision.
+Modern AI systems rely heavily on massive datasets and high-performance computing hardware.

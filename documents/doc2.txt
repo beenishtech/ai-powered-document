@@ -1,0 +1,5 @@
+Python is a popular high-level, interpreted programming language created by Guido van Rossum.
+Its design philosophy emphasizes code readability by using significant whitespace and indentation.
+Python supports multiple programming paradigms including procedural, object-oriented, and functional styles.
+It features dynamic typing and automatic memory management via built-in garbage collection.
+The language has a rich standard library and a vast ecosystem of third-party packages.

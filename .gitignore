@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Environment variables (API Key)
+.env
+
+# Python Cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Vector Database folder
+chroma_bd/

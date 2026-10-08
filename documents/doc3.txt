@@ -1,0 +1,5 @@
+Machine Learning (ML) is a core subset of artificial intelligence focused on data-driven models.
+Instead of explicit programming, ML algorithms learn patterns from historical training datasets.
+Supervised learning uses labeled data to train predictive models for classification and regression.
+Unsupervised learning discovers hidden structures or natural clusters within unlabeled data.
+Reinforcement learning trains agents to make optimal decisions through trial and error rewards.

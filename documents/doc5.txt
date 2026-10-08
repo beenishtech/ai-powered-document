@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) improves large language model accuracy using external sources.
+LLMs often hallucinate or lack domain-specific information outside their training data.
+RAG bridges this gap by fetching relevant context before generating a final response.
+The workflow begins by splitting documents into smaller manageable text chunks.
+These text chunks are converted into numerical embeddings using sentence-transformer models.

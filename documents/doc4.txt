@@ -1,0 +1,5 @@
+Cloud computing delivers on-demand computing resources over the internet on a pay-as-you-go model.
+It eliminates the need for organizations to maintain physical data centers and hardware servers.
+Services are categorized into Infrastructure, Platform, and Software as a Service models.
+Global data centers ensure high availability, scalability, and disaster recovery resilience.
+Public clouds are managed by third-party vendors like AWS, Azure, and Google Cloud.
